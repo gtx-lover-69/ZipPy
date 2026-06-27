@@ -59,7 +59,6 @@ def main():
 
         extract(directory)
 
-    elif choice == '2':
 
 
 if __name__ == '__main__':
